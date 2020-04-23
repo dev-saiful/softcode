@@ -1,0 +1,16 @@
+body{
+    position: relative;
+}
+.jumbotron{
+    background-image: url("/images/back.png");
+    text-align: center;
+}
+.card-img-top{
+    
+}
+.bg-port{
+    background-color: #F8F9FA;
+}
+.bg_contact{
+    background-color: #1C8B82;
+}
